@@ -8,8 +8,8 @@ The DES algorithm works in the following stages:
 and permutation.
 4. Final Permutation (FP): The result of the 16 rounds is permuted to produce the final
 ciphertext.
-5. Decryption: The process is reversed using the same key to recover the plaintext.
-<br><b>CODE : </b>
+5. Decryption: The process is reversed using the same key to recover the plaintext.<br>
+<br><b>CODE :https://github.com/sushma879/DES-algorithm/blob/main/des_implement.html </b>
 <br><b>To execute this application,</b> <br>
 1.Ensure that you have a internet connection and web browser<br>
 2.Save the file with ".html" extension <br>
